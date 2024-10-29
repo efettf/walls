@@ -31,6 +31,7 @@ $ git clone https://github.com/efettf/github.git
 
 ### 🏞️ Preview
 
+![bridge](bridge.jpg)
 ![cozy](cozy.png)
 ![astronaut](astronaut.png)
 ![arch](arch.png)
