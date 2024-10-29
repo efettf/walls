@@ -1,12 +1,11 @@
 
 set -e
 
-new="$2.$3"
-newSub="${new// /-}"
+new="${2// /-}"
 
-mv "$1" "$newSub"
+suffix="${1##*.}"
 
-image=$(echo "![${new%.*}]($newSub)")
+mv "$1" "$new.$suffix"
 
-sed -i "34i $image" README.md
+sed -i "34i $(echo "![${2%.*}]($new.$suffix)")" README.md
 
