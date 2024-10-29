@@ -19,6 +19,16 @@ Public repository containing my wallpapers, feel free to copy anything you want 
 <!-- Create a line seperating stuff on github. -->
 ##
 
+### 💨 Installation
+
+> [!NOTE]
+> This repository is included by default in
+> my [dotfiles](https://github.com/efettf/dotfiles) under _~/wallpapers_.
+
+```bash
+$ git clone https://github.com/efettf/github.git
+```
+
 ### 🏞️ Preview
 
 ![catppuccin city](catppuccin-city.png)
