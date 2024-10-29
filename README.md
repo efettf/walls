@@ -31,6 +31,7 @@ $ git clone https://github.com/efettf/github.git
 
 ### 🏞️ Preview
 
+![cozy](cozy.png)
 ![astronaut](astronaut.png)
 ![arch](arch.png)
 ![sushi key](sushi-key.jpg)
