@@ -27,6 +27,7 @@ Public repository containing my wallpapers, feel free to copy anything you want 
 ![macos](macos.jpg)
 ![meteor](meteor.webp)
 ![mountain](mountain.jpg)
+![mountain lake](mountain-lake.jpg)
 ![wave](wave.png)
 
 <!-- Catppuccin banner at the bottom for the looks, 
