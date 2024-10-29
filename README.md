@@ -15,8 +15,19 @@ it's not the best way to do it I'm sure. -->
 Public repository containing my wallpapers, feel free to copy anything you want as this is just a backup of them.
 </p>
 
+
 <!-- Create a line seperating stuff on github. -->
 ##
+
+### 🏞️ Preview
+
+![catppuccin city](catppuccin-city.png)
+![clouds](clouds.png)
+![lake](lake.png)
+![macos](macos.jpg)
+![meteor](meteor.webp)
+![mountain](mountain.jpg)
+![wave](wave.png)
 
 <!-- Catppuccin banner at the bottom for the looks, 
 make sure to remove it when changing theme as well as the colors in banners above. -->
