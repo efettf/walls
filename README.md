@@ -31,6 +31,7 @@ $ git clone https://github.com/efettf/github.git
 
 ### 🏞️ Preview
 
+![sushi key](sushi-key.jpg)
 ![catppuccin city](catppuccin-city.png)
 ![clouds](clouds.png)
 ![lake](lake.png)
