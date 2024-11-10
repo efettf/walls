@@ -11,3 +11,4 @@
 ![mountain](mountain.jpg)
 ![mountain lake](mountain-lake.jpg)
 ![wave](wave.png)
+![leaves](leaves.png)
