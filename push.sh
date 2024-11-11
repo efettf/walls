@@ -2,13 +2,9 @@
 
 set -e
 
-file=$(basename "$1")
+new="${2// /-}.${1##*.}"
 
-curl "$1" >> "$file"
-
-new="${2// /-}.${file##*.}"
-
-mv "$file" "$new"
+mv "$1" "$new"
 
 echo "![${2%.*}]($new)" >> readme.md
 
