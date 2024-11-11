@@ -12,3 +12,4 @@
 ![mountain lake](mountain-lake.jpg)
 ![wave](wave.png)
 ![leaves](leaves.png)
+![stairs](stairs.png)
