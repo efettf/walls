@@ -10,7 +10,7 @@ echo "![${2%.*}]($new)" >> readme.md
 
 git add -A
 
-timeout 5s git commit -m ":heavy_plus_sign: Add $2 wallpaper"
+timeout 5s git commit -m "Add $2 wallpaper"
 
 git push -u origin main -q
 
