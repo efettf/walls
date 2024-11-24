@@ -14,3 +14,4 @@
 ![leaves](leaves.png)
 ![stairs](stairs.png)
 ![city](city.png)
+![gruvbox](gruvbox.png)
